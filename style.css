@@ -1,11 +1,11 @@
 .image-container{
-    background: url('image/bg3.jpg') center no-repeat;
+    background: url('img/Cover-Pictures.jpg') center no-repeat;
     background-size: cover;
     height: 100vh;
 }
 
 .form-container{
-    background-color: #555555;
+    background-color: #17a2b8;
     display: flex;
     justify-content: center;
 }
@@ -86,15 +86,11 @@
 .forget-link, .register-link, .login-link{
     color: #fff;
     font-weight: bold;
+	
 }
 
 .forget-link:hover, .register-link:hover, .login-link:hover{
     color: #292525;
 }
 
-.form-box .btn-social{
-    color: #fff;
-    border: 0;
-    margin-bottom: 10px;
-}
 
